@@ -1,8 +1,8 @@
 {
  "type": "synergie-blick",
  "oeffentlich": true,
- "stand": "A140",
- "savedAt": "2026-10-27T13:31:45+01:00",
+ "stand": "A141",
+ "savedAt": "2026-10-27T13:48:14+01:00",
  "people": [
   {
    "id": "philipp",
@@ -486,7 +486,7 @@
    "id": "p-herr-jan",
    "login": "ruhig Wind",
    "nummer": "0020",
-   "wohnort": "NRW",
+   "wohnort": "Recklinghausen",
    "ortKern": "NRW (sonst)",
    "hobbys": "Natur, Tiere, ausgehen, gute Menschen",
    "ausbildung": "1997 beim LVR Viersen meine dreijährige Ausbildung zum Pflegefachmann absolviert.",
