@@ -1,8 +1,8 @@
 {
  "type": "synergie-blick",
  "oeffentlich": true,
- "stand": "A103",
- "savedAt": "2026-10-26T17:22:40+01:00",
+ "stand": "A132",
+ "savedAt": "2026-10-27T10:45:47+01:00",
  "people": [
   {
    "id": "philipp",
@@ -799,6 +799,91 @@
    "kommentare": []
   }
  ],
+ "orte": [
+  {
+   "id": "ort-mvf4oeci",
+   "login": "Alter Stein",
+   "typ": "Obstbaum",
+   "titel": "Städtische Obstwiese",
+   "notizen": "Lasst gerne etwas übrig für andere",
+   "lat": 51.304506895260516,
+   "lng": 6.249074935913087,
+   "zeit": "19.10.2026, 12:45"
+  },
+  {
+   "id": "ort-mvftmii0",
+   "login": "Alter Stein",
+   "typ": "Obstbaum",
+   "art": "Städtische Obstwiese",
+   "titel": "Park am Krsbkenhaus",
+   "notizen": "5 Apfelbäume",
+   "lat": 51.30018372898481,
+   "lng": 6.250024437904359,
+   "zeit": "20.10.2026, 00:23"
+  },
+  {
+   "id": "ort-mvfnmw0a",
+   "login": "Alter Stein",
+   "typ": "Obstbaum",
+   "art": "Städtische Obstwiese",
+   "titel": "Obstwiese",
+   "notizen": "This is my Church. This is my Church. This is Where I Heal \nmy Hurts",
+   "lat": 51.30449012658919,
+   "lng": 6.249160766601563,
+   "zeit": "19.10.2026, 21:35"
+  },
+  {
+   "id": "ort-mvfnib8r",
+   "login": "Alter Stein",
+   "typ": "Freundliche Menschen",
+   "art": "Home24",
+   "titel": "Mein Blick",
+   "notizen": "This is my Church. This is my Church. This is Where I Heal \nmy Hurts",
+   "lat": 51.299649632849956,
+   "lng": 6.245950680759559,
+   "zeit": "19.10.2026, 21:32"
+  },
+  {
+   "id": "ort-mvgbhw2h",
+   "login": "Alter Stein",
+   "typ": "Kastanie",
+   "art": "Altes Rötzel Gelände",
+   "titel": "Kastanienbaum, in der Nähe Brombeeren, gute Hunderoute",
+   "notizen": "Direkt an Bens Grundstück, \nRemember: Bens und PMs Graffiti Denkzettel.\nFrag mich danach 🙈😂🤣🤜🤛",
+   "lat": 51.29531674508515,
+   "lng": 6.243694424629212,
+   "zeit": "20.10.2026, 08:43"
+  }
+ ],
+ "auftraege": [
+  {
+   "id": "a-mvf7pdgo",
+   "typ": "aktion",
+   "titel": "Judith Vorgarten verschönern",
+   "text": "Ich möchte das Judith Vater Werner das nächste Mal hier zu seinem Haus kommt und feststellt, dass einiges geschehen ist. Der Vorgarten müsste grün werden, verschönert und was sonst noch drin ist.",
+   "ort": "Nettetal",
+   "zeit": "Kann spontan oder geplant sein?",
+   "bedarf": "Manpower, Laubbläser/Laubsauger, Rechen, braune Tonne, Musik, Solidarität mit Judith,",
+   "hinweis": "Bisher keine Einverständnis bei Werner geholt. Nehme ich auf meine Verantwortung..",
+   "login": "Alter Stein",
+   "mitmacher": [],
+   "created": "2026-10-19T12:09:56.329Z"
+  },
+  {
+   "id": "a-mvnvje7n",
+   "typ": "auftrag",
+   "titel": "test",
+   "text": "",
+   "ort": "",
+   "zeit": "32.10.",
+   "bedarf": "",
+   "hinweis": "",
+   "login": "alter-stein",
+   "mitmacher": [],
+   "created": "2026-10-25T13:39:17.555Z"
+  }
+ ],
+ "forum": [],
  "audios": [
   {
    "id": "goodmorningeding",
