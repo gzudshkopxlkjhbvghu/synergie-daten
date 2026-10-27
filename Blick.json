@@ -1,14 +1,14 @@
 {
  "type": "synergie-blick",
  "oeffentlich": true,
- "stand": "A142",
- "savedAt": "2026-10-27T14:03:09+01:00",
+ "stand": "A143",
+ "savedAt": "2026-10-27T18:28:28+01:00",
  "people": [
   {
    "id": "philipp",
    "login": "alter Stein",
    "nummer": "0001",
-   "wohnort": "Nettetal",
+   "wohnort": "Nettetal-Breyell",
    "ortKern": "Nettetal",
    "hobbys": "DJ & Music Producing (House), Astrofotografie, Graffiti, Skateboard, Clubbing & Partys, Baumhäuser, Home24",
    "ausbildung": "Industrieelektroniker, Fachrichtung Gerätetechnik, PREH-Werke Willich (heute Lacroix-Electronics), 09/1998–01/2002, Abschluss Facharbeiterbrief",
@@ -138,7 +138,7 @@
     "Transport / Auto",
     "Transporter"
    ],
-   "wohnort": ""
+   "wohnort": "Nettetal"
   },
   {
    "id": "thomas-mueller-brockerhofer",
@@ -486,8 +486,8 @@
    "id": "p-herr-jan",
    "login": "ruhig Wind",
    "nummer": "0020",
-   "wohnort": "NRW",
-   "ortKern": "NRW (sonst)",
+   "wohnort": "Herne",
+   "ortKern": "Herne",
    "hobbys": "Natur, Tiere, ausgehen, gute Menschen",
    "ausbildung": "1997 beim LVR Viersen meine dreijährige Ausbildung zum Pflegefachmann absolviert.",
    "beruf": "Ich habe 25 Jahre in den unterschiedlichsten Bereichen der Krankenpflege gearbeitet. Zuletzt und bis heute als Dauernachtwache in einem Wohnheim für Menschen mit Bedarfsunterstützung.",
@@ -531,7 +531,7 @@
   {
    "id": "p-frau-oldenburg",
    "nummer": "0022",
-   "wohnort": "Nettetal",
+   "wohnort": "Nettetal-Breyell",
    "ortKern": "Nettetal",
    "hobbys": "Tolle Gespräche, nette Menschen, Kinder, Bewegung, Natur"
   }
