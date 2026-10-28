@@ -1,7 +1,7 @@
 {
  "type": "synergie-blick",
  "oeffentlich": true,
- "stand": "A145",
+ "stand": "A147",
  "savedAt": "2026-10-27T18:41:48+01:00",
  "people": [
   {
@@ -879,42 +879,5 @@
   }
  ],
  "forum": [],
- "audios": [
-  {
-   "id": "goodmorningeding",
-   "title": "Good Morning",
-   "artist": "DJ Lonestar",
-   "url": "audio/goodmorningeding-djlonestar.mp3",
-   "cover": "cover-goodmorningeding.jpg",
-   "duration": "38 min",
-   "herzen": [
-    "alter-stein",
-    "Alter Stein",
-    "Dödel",
-    "Alter-Stein"
-   ]
-  },
-  {
-   "id": "aud-mv9xxk01",
-   "title": "dj, Lonestar – vom MJ to Rap",
-   "url": "audio/mj-to-rap-djlonestar.mp3",
-   "herzen": [
-    "Alter Stein"
-   ],
-   "duration": "13:54 min",
-   "artist": "DJ Lonestar"
-  },
-  {
-   "id": "aud-fever-20251030",
-   "title": "Fever",
-   "artist": "Philipp Mössner",
-   "url": "audio/fever-philipp-mossner-20251030.mp3",
-   "datum": "2025-10-30",
-   "login": "Alter Stein",
-   "duration": "3:39 min",
-   "herzen": [
-    "Alter-Stein"
-   ]
-  }
- ]
+ "audios": []
 }
