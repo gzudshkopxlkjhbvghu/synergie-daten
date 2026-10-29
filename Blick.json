@@ -848,6 +848,17 @@
    "lat": 51.30446465915788,
    "lng": 6.249192953109742,
    "zeit": "27.10.2026, 10:41"
+  },
+  {
+   "id": "ort-mvty6erv",
+   "login": "Alter-Stein",
+   "typ": "Treffpunkt",
+   "art": "Meine Terrasse",
+   "titel": "Hier bin ich gern und oft",
+   "notizen": "Hinterm dritten Stein unten links liegt ein Schatz verborgen.",
+   "lat": 51.29964673844376,
+   "lng": 6.245688662002968,
+   "zeit": "29.10.2026, 20:39"
   }
  ],
  "auftraege": [
