@@ -2,7 +2,7 @@
  "type": "synergie-blick",
  "oeffentlich": true,
  "stand": "A147",
- "savedAt": "2026-10-27T18:41:48+01:00",
+ "savedAt": "2026-10-29T09:27:48.132000Z",
  "people": [
   {
    "id": "philipp",
@@ -119,6 +119,7 @@
    "id": "matthias-dohrstrasse",
    "login": "rundes Rad",
    "nummer": "0006",
+   "wohnort": "Nettetal",
    "ortKern": "Nettetal",
    "hobbys": "Autos schrauben",
    "beruf": "Demontage / Schrott, Fahrzeuge",
@@ -137,8 +138,7 @@
     "Material",
     "Transport / Auto",
     "Transporter"
-   ],
-   "wohnort": "Nettetal"
+   ]
   },
   {
    "id": "thomas-mueller-brockerhofer",
