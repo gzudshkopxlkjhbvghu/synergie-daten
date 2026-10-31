@@ -860,6 +860,17 @@
    "lat": 51.29964673844376,
    "lng": 6.245688662002968,
    "zeit": "29.10.2026, 20:39"
+  },
+  {
+   "id": "ort-mvuvpsec",
+   "login": "Alter-Stein",
+   "typ": "Treffpunkt",
+   "art": "Graffiti Bridge",
+   "titel": "Meine Lieblingsbrücke",
+   "notizen": "Wunderbar zu bemalen nachts keine Menschenseele. Frühere Gefährten in der Nähe. \nNeo, Moppel",
+   "lat": 51.30359744404616,
+   "lng": 6.240401600303645,
+   "zeit": "30.10.2026, 12:18"
   }
  ],
  "auftraege": [
